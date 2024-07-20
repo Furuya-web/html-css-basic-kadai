@@ -15,36 +15,14 @@ body{
   margin: 0px;
 }
 
-main{
-  padding: 10px;
-}
-
-img{
-  margin: 10px 0px;
-  width: 70%;
-}
-
 header{
   margin-bottom: 20px ;
   background-color:rgb(244, 79, 79);
   text-align: center;
 }
 
-footer{
-  background-color: rgb(244, 79, 79);
-  text-align: center;
-}
-
-a{
-  color: rgb(255, 255, 255);
-}
-
-a:visited{
-  background-color: rgb(193, 234, 251);
-}
-
-a:hover{
-  color: rgb(245, 178, 168);
+main{
+  padding: 10px;
 }
 
 #parent{
@@ -80,16 +58,31 @@ h2::before{
   content: "●";
 }
 
-.maru{
-  color: rgb(239, 111, 139);
-}
-
 p{
   margin: 0px;
   font-size: 20px;
 }
 
+img{
+  margin: 10px 0px;
+  width: 70%;
+}
+
 a{
   font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+
+a:visited{
+  background-color: rgb(193, 234, 251);
+}
+
+a:hover{
+  color: rgb(245, 178, 168);
+}
+
+footer{
+  background-color: rgb(244, 79, 79);
+  text-align: center;
 }
 
